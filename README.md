@@ -1,2 +1,3 @@
 # SHALA_2020
-ML/DL interactive course sponsered by IITB
+An interactive course on Data Science sponsered by IITB
+https://shala2020.github.io/
